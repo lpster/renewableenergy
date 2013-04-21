@@ -1,1 +1,1 @@
-<?php include_once("renewable1.html"); ?>
+<?php include_once("home.html"); ?>
